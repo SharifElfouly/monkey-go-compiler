@@ -11,6 +11,13 @@ const (
 
   ASSIGN   = "="
   PLUS     = "+"
+  MINUS    = "-"
+  BANG     = "!"
+  ASTERIX  = "*"
+  SLASH    = "/"
+
+  LT = "<"
+  GT = ">"
 
   COMMA     = ","
   SEMICOLON = ";"
